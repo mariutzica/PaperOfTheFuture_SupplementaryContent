@@ -1,0 +1,52 @@
+------------------------------------------------------------
+TopoFlow Version 3.5 (2/20/17)
+Wed Mar 01 20:12:31 2017
+ 
+Input directory:      C2-input-files/\
+Output directory:     simulation-outputs/maintaining_peaks_high_volume/G0p1\
+Site prefix:          C2
+Case prefix:          Test1
+ 
+Simulated time:      3000.0 [min]
+Program run time:    19.227183334 [min]
+ 
+Number of timesteps: 90000
+Number of columns:   233
+Number of rows:      113
+ 
+T_stop:            3000.0 [min]
+ 
+Main outlet ID:    (101, 124) (row, col)
+Basin_area:        4.83503 [km^2] 
+ 
+Min Manning's n:   0.0131894815713
+Max Manning's n:   0.300035893917
+ 
+Q_final:           0.0090472327414 [m^3/s]
+Q_peak:            2.0561492725 [m^3/s]
+Q_peak_time:       931.733333333 [min]
+u_peak:            2.67661846691 [m/s]
+u_peak_time:       931.7 [min]
+d_peak:            0.116244160666 [m]
+d_peak_time:       931.7 [min]
+ 
+Max(precip rate):  4.59000015259 [mm/hr]
+ 
+Total accumulated volumes over entire DEM:
+vol_P   (rainfall):      556173.730134 [m^3]   (snowfall excluded)
+vol_Q   (discharge):     37379.7012863 [m^3]   (main basin outlet)
+vol_SM  (snowmelt):      0.0 [m^3]
+vol_MR  (icemelt):       0.0 [m^3]
+vol_ET  (evaporation):   0.0 [m^3]
+vol_IN  (infiltration):  473372.532014 [m^3]
+vol_Rg  (recharge):      473372.532014 [m^3]   (to water table)
+vol_GW  (baseflow):      0.0 [m^3]
+vol_R   (runoff):        85669.6658011 [m^3]   R = (P+SM+MR+GW) - (ET+IN)
+ 
+Final grid mins and maxes:
+Min(Q), Max(Q):   0.0000, 0.0147 [m^3/s]
+Min(u), Max(u):   0.0000, 0.4822 [m/s]
+Min(d), Max(d):   0.0000, 0.0161 [m]
+ 
+Finished. (Test1)
+
