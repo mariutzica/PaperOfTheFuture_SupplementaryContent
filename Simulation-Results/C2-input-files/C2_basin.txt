@@ -1,0 +1,30 @@
+--------------------------------------------------
+ Attributes of the C2 Basin
+--------------------------------------------------
+ 
+ Outlet x-coordinate:     -147.60667
+ Outlet y-coordinate:     65.156667
+ Outlet pixel column:     124
+ Outlet pixel row:        101
+ Outlet pixel ID:         23657
+ Outlet parent pix. ID:   23891
+ Outlet elevation:        332.167  (m)
+ 
+ Basin area:              4.8350348  (km^2)
+ Basin relief:            0.38500000  (km)
+ 
+ Pruning method:            HS Order
+ Pruning threshold:         3.00000
+ Strahler order:            4
+ Network magnitude:         31
+ Network diameter:          14
+ Longest channel length:    2.9255013  (km)
+ Total channel length:      18.883751  (km)
+ Drainage density:          3.9056079  (km^-1)
+ Source density:            6.4115362  (km^-2)
+ 
+----------------------------------------------------------------------
+ Note: The last set of attributes depend on
+       the user-selected pruning method.
+----------------------------------------------------------------------
+ 
